@@ -1,0 +1,5 @@
+name: Custom REST API using a Controller
+description: An example module on how to create a Custom REST API using a Controller
+core_version_requirement: ^8 || ^9
+type: module
+package: Custom
